@@ -1,6 +1,6 @@
 options =
-  city          : "Amsterdam"       # default city in case location detection fails
-  region        : "NH"              # default region in case location detection fails
+  city          : "Queens"       # default city in case location detection fails
+  region        : "NY"              # default region in case location detection fails
   units         : 'c'               # c for celcius. f for Fahrenheit
   staticLocation: false             # set to true to disable autmatic location lookup
 
